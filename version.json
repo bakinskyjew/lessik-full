@@ -1,5 +1,5 @@
 {
-  "version": "6.2",
+  "version": "6.4",
   "url": "https://raw.githubusercontent.com/bakinskyjew/lessik-full/main/lessik_full_smart.luac",
-  "changelog": "Fix updater: проверка и скачивание обновлений выполняются безопасно через lua_thread"
+  "changelog": "Updater bug fix."
 }
