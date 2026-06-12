@@ -1,5 +1,5 @@
 {
-  "version": "6.4",
+  "version": "6.5",
   "url": "https://raw.githubusercontent.com/bakinskyjew/lessik-full/main/lessik_full_smart.luac",
-  "changelog": "Updater bug fix."
+  "changelog": "Добавлен МультиФулл организаций: можно выбрать несколько банд и фуллить их по кругу патронами или металлом. Улучшено отображение статуса мультифулла."
 }
